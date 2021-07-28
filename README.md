@@ -3,8 +3,7 @@
 COCOT51 is a column staggered keyboard with 51 keys and a trackball.
 
 [Firmware](https://github.com/aki27kbd/qmk_firmware/tree/master/keyboards/cocot51)
-
-[Build Guide](https://github.com/aki27kbd/cocot51/doc/buildguide.md)
+[Build Guide](https://github.com/aki27kbd/cocot51/blob/main/doc/buildguide.md)
 
 ![cocot51_main02](https://user-images.githubusercontent.com/88039287/127334611-32bf48c5-6850-4d3f-b66c-3dd14c077e62.jpg)
 
